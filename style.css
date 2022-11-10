@@ -1,0 +1,55 @@
+.likes {
+    background-color: red;
+    width: 20%;
+    color: yellow;
+    margin: 50px;
+}
+
+#likes2 {
+    background-color: yellow;
+    width: 50%;
+    margin: 20px;
+    color: blue;
+}
+
+.likes3 {
+    background-color: green;
+    width: 100%;
+    margin: 10px;
+    color: red;
+}
+
+#likes4 {
+    background-color: goldenrod;
+    width: 80%;
+    margin: auto;
+    color: black;
+}
+
+.dislikes {
+    background-color: red;
+    width: 20%;
+    color: yellow;
+    margin: 50px;
+}
+
+#dislikes2 {
+    background-color: yellow;
+    width: 50%;
+    margin: 20px;
+    color: blue;
+}
+
+.dislikes3 {
+    background-color: goldenrod;
+    width: 80%;
+    margin: auto;
+    color: black;
+}
+
+#dislikes4 {
+    background-color: green;
+    width: 90%;
+    margin: 10px;
+    color: red;
+}
